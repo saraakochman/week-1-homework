@@ -1,0 +1,72 @@
+header { 
+  border-bottom: 3px solid #d7d5d5;
+  width: 720px;
+  margin-left: 10px
+}
+
+header h1 { 
+  display: inline-block;
+  color: #121212;
+  font-family: "Brandon Grotesque Office", sans-serif;
+  font-size: 34px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+
+header span {
+  margin-left: 160px;
+  color: #f89520;
+  font-family: "Avenir-light", sans-serif;
+}
+
+h3 {
+  font-family: "Avenir-Heavy", sans-serif;
+  color: #f89520;
+  margin-left: 10px;
+  margin-bottom: -10px;
+}
+
+p {
+  font-family: "Avenir-light", sans-serif;
+  color: #121212;
+  margin-left: 10px;
+  margin-bottom: -10px;
+  margin-top: 15px;
+}
+
+li {
+  font-family: "Avenir-light", sans-serif;
+  color: #121212;
+  margin-left: 10px;
+  font-size: 15px;
+  margin-bottom: 3px;
+}
+
+ul {
+  margin-bottom: -10px;
+  list-style-type: square;
+}
+
+a {
+  color: #121212; 
+}
+
+a:link {
+  text-decoration: underline;
+}
+
+a:visited {
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #f89520;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #f89520;
+
+}
